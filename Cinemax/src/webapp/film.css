@@ -1,0 +1,29 @@
+.page {
+    margin 5px solid;
+    padding: 5%;
+    width: 80%;
+    background-color: rgb(120,150,150);
+    margin: auto;
+    
+}
+
+#conteneur
+{
+    display: flex;
+    justify-content: center;
+}
+.element1 {
+    width: 40%;
+
+}
+.element2 {
+    width: 70%;
+    text-align: left;
+    margin-left: 5%;
+
+}
+
+.img{
+    width: 100%;
+    margin-top: 2%
+}
